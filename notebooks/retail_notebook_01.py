@@ -4,8 +4,8 @@
 """
 Project: Retail & Marketing Analytics - Customer Segmentation & Sales Optimization
 Notebook: 01 - Data Acquisition and Setup
-Author: [Your Name]
-Date: [Current Date]
+Author: Akhilesh Badiger
+Date: 10th July 2026
 
 Objective:
 - Setup project environment
